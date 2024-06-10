@@ -1,2 +1,1 @@
-# Precurso-henry
-este es un repositorio del modulo2 del precurso de henry
+Prueba de como crear un repositorio y clonarlo de guthub a la computadora
